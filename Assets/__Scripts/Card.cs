@@ -7,8 +7,7 @@ public class Card : MonoBehaviour
     // This will be defined later
 }
 
-[System.Serializable] // A Serializable class is able to be edited in the
-Inspector
+[System.Serializable] // A Serializable class is able to be edited in the Inspector
 public class Decorator
 {
     // This class stores information about each decorator or pip from DeckXML
